@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/paul-xor/sf-backend#readme",
   "devDependencies": {
+    "@types/node": "^18.14.0",
     "aws-cdk-lib": "^2.65.0",
     "constructs": "^10.1.255",
     "ts-node": "^10.9.1",
